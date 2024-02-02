@@ -7,5 +7,7 @@
 ![](./Result/expirment1.JPG)<br/>
 ![](./Result/expirment2.JPG)<br/>
 ![](./Result/expirment3.JPG)<br/>
-**Update**<br/>
-![first update](./Result/firstupdate.JPG)
+**Update 1**<br/>
+![first update](./Result/firstupdate.JPG)<br/>
+**Update 2**<br/>
+![second update](./Result/update2.JPG)
